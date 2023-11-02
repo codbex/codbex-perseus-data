@@ -1,0 +1,6 @@
+PURCHASEORDERSTATUS_ID,PURCHASEORDERSTATUS_NAME
+1,New
+2,Released
+3,Received
+4,Canceled
+5,Closed

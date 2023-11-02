@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "table": "CODBEX_CURRENCY",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/currencies.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_PURCHASEORDERSTATUS",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/purchase-order-status.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_SALESORDERSTATUS",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/sales-order-status.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_VACATIONTYPE",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/vacation-types.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_POSITION",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/positions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    }
+  ]
+}
