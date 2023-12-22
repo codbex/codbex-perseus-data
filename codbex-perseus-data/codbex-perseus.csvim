@@ -61,6 +61,26 @@
       "distinguishEmptyFromNull": true
     },
     {
+      "table": "CODBEX_PROJECT",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/projects.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_PROJECTASSIGNMENT",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/projects-assignments.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
       "table": "CODBEX_CURRENCY",
       "schema": "PUBLIC",
       "file": "/codbex-perseus-data/currencies.csv",
