@@ -1,6 +1,66 @@
 {
   "files": [
     {
+      "table": "CODBEX_COMPANY",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/companies.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_TEAM",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/teams.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_EMPLOYEE",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/employees.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_SALARY",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/salaries.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_CUSTOMER",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/customers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_SUPPLIER",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/suppliers.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
       "table": "CODBEX_CURRENCY",
       "schema": "PUBLIC",
       "file": "/codbex-perseus-data/currencies.csv",
