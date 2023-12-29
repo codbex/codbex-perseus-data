@@ -81,6 +81,16 @@
       "distinguishEmptyFromNull": true
     },
     {
+      "table": "CODBEX_TIMESHEET",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/timesheets.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
       "table": "CODBEX_CURRENCY",
       "schema": "PUBLIC",
       "file": "/codbex-perseus-data/currencies.csv",
