@@ -1,0 +1,18 @@
+PAYMENTTYPE_ID,PAYMENTTYPE_NAME
+1,Customer Invoice		
+2,Customer Order (Advance)		
+3,Customer Debit Note		
+4,Customer Credit Note		
+5,Supplier Invoice		
+6,Supplier Order (Advance)		
+7,Supplier Debit Note		
+8,Supplier Credit Note		
+9,Employee Salary		
+10,Employee Bonus		
+11,Employee Expense Claim		
+12,Taxes VAT		
+13,Taxes Income		
+14,Taxes Other		
+15,Shareholder Investment		
+16,Shareholder Dividend		
+17,Student Scholarship

@@ -49,6 +49,26 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_PAYMENTDIRECTION",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/payment-directions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_PAYMENTTYPE",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/payment-types.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
     }
   ]
 }
