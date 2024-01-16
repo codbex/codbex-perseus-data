@@ -59,6 +59,16 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_SALARYITEMDIRECTION",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/salary-item-directions.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
     }
   ]
 }
