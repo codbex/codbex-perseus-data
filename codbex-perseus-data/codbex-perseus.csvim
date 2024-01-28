@@ -69,6 +69,16 @@
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true
+    },
+    {
+      "table": "CODBEX_SALESINVOICESTATUS",
+      "schema": "PUBLIC",
+      "file": "/codbex-perseus-data/sales-invoice-status.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true
     }
   ]
 }
